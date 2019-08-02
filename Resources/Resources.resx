@@ -124,7 +124,7 @@
     <value>Age</value>
   </data>
   <data name="AgeRange" xml:space="preserve">
-    <value>The age must be between 10 and 130</value>
+    <value>The age must be between 10 and 130 years</value>
   </data>
   <data name="AgeRequired" xml:space="preserve">
     <value>Age is required</value>
@@ -151,7 +151,7 @@
     <value>First Name</value>
   </data>
   <data name="FirstNameLong" xml:space="preserve">
-    <value>Must be less than 50 characters</value>
+    <value>The first name must be less than 50 characters</value>
   </data>
   <data name="FirstNameRequired" xml:space="preserve">
     <value>First name is required</value>
@@ -160,7 +160,7 @@
     <value>Last Name</value>
   </data>
   <data name="LastNameLong" xml:space="preserve">
-    <value>Must be less than 50 characters</value>
+    <value>The last name must be less than 50 characters</value>
   </data>
   <data name="LastNameRequired" xml:space="preserve">
     <value>Last name is required</value>

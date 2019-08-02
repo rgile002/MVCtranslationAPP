@@ -79,7 +79,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The age must be between 10 and 130.
+        ///   Looks up a localized string similar to The age must be between 10 and 130 years.
         /// </summary>
         public static string AgeRange {
             get {
@@ -160,7 +160,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Must be less than 50 characters.
+        ///   Looks up a localized string similar to The first name must be less than 50 characters.
         /// </summary>
         public static string FirstNameLong {
             get {
@@ -187,7 +187,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Must be less than 50 characters.
+        ///   Looks up a localized string similar to The last name must be less than 50 characters.
         /// </summary>
         public static string LastNameLong {
             get {

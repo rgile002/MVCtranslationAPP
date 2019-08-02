@@ -118,57 +118,57 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AddPerson" xml:space="preserve">
-    <value>b</value>
+    <value>Ajouter une personne</value>
   </data>
   <data name="Age" xml:space="preserve">
-    <value>Age</value>
+    <value>Âge</value>
   </data>
   <data name="AgeRange" xml:space="preserve">
-    <value>a</value>
+    <value>L'âge doit être compris entre 10 et 130 ans</value>
   </data>
   <data name="AgeRequired" xml:space="preserve">
-    <value>a</value>
+    <value>L'âge est requis</value>
   </data>
   <data name="Biography" xml:space="preserve">
-    <value>Biography</value>
+    <value>Biographie</value>
   </data>
   <data name="ChooseYourLanguage" xml:space="preserve">
-    <value>b</value>
+    <value>Choisissez votre langue</value>
   </data>
   <data name="Create" xml:space="preserve">
-    <value>Create fr</value>
+    <value>Créer</value>
   </data>
   <data name="Email" xml:space="preserve">
     <value>Email</value>
   </data>
   <data name="EmailInvalid" xml:space="preserve">
-    <value>a</value>
+    <value>L'email n'est pas valide</value>
   </data>
   <data name="EmailRequired" xml:space="preserve">
-    <value>Email Required</value>
+    <value>Email est requis</value>
   </data>
   <data name="FirstName" xml:space="preserve">
-    <value>First Name</value>
+    <value>Prénom</value>
   </data>
   <data name="FirstNameLong" xml:space="preserve">
-    <value>first name</value>
+    <value>Le prénom doit avoir moins de 50 caractères</value>
   </data>
   <data name="FirstNameRequired" xml:space="preserve">
-    <value>b</value>
+    <value>Le prénom est requis</value>
   </data>
   <data name="LastName" xml:space="preserve">
-    <value>Last Name</value>
+    <value>Nom de famille</value>
   </data>
   <data name="LastNameLong" xml:space="preserve">
-    <value>b</value>
+    <value>Le nom de famille doit avoir moins de 50 caractères</value>
   </data>
   <data name="LastNameRequired" xml:space="preserve">
-    <value>b</value>
+    <value>Nom requis</value>
   </data>
   <data name="LogOff" xml:space="preserve">
-    <value>Log Off fr</value>
+    <value>Se déconnecter</value>
   </data>
   <data name="LogOn" xml:space="preserve">
-    <value>Log On fr</value>
+    <value>Se connecter</value>
   </data>
 </root>
